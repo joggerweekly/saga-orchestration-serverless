@@ -1,7 +1,7 @@
 #this is a file with recommended variable names
 prefix          = "test"
 environment     = "dev"
-location        = "westus2"
+location        = "centralus"
 partition_count = "2"
 #failover location MUST be different than location, if same Terraform won't be able to create a Cosmos DB instance
 failover_location    = "westus"
