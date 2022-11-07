@@ -1,5 +1,5 @@
 #this is a file with recommended variable names
-prefix          = "test"
+prefix          = ""
 environment     = "dev"
 location        = "westus2"
 partition_count = "2"
